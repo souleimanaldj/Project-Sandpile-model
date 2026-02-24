@@ -1,2 +1,3 @@
 # Sandpile Project Project 
-Self-organized criticality simulation using the sandpile model. SAS/IML implementation analyzing avalanche sizes, power-law distributions and 1/f noise via log-log regression. Illustrates how complex systems generate scale-free dynamics similar to financial market fluctuations.
+
+Self-organized criticality simulation based on the Bak-Tang-Wiesenfeld sandpile model. Implemented in SAS/IML to simulate grain additions, toppling dynamics and avalanche propagation on a 2-D lattice. The project measures avalanche sizes and durations, estimates power-law distributions using log-log regression, and studies temporal correlations through 1/f (pink) noise analysis. Results illustrate the emergence of scale-free behavior from simple local interactions and provide an analogy with complex systems such as financial markets, where small shocks can occasionally trigger large systemic events.
